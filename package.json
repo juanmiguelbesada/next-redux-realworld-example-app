@@ -1,0 +1,15 @@
+{
+  "name": "next-redux-realworld-example-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
